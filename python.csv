@@ -1,0 +1,50 @@
+Title,Author,Genre,Total_Pages,Publisher,Price,Rating,Currently_available,Rented,Total
+Fundamentals of Wavelets,"Goswami, Jaideva",signal_processing,2280,Wiley,1300,4.5,0,24,24
+Data Smart,"Foreman, John",data_science,235,Wiley,690,4.2,3,22,25
+God Created the Integers,"Hawking, Stephen",mathematics,197,Penguin,656,4.5,10,6,16
+Superfreakonomics,"Dubner, Stephen",economics,179,HarperCollins,340,3.2,16,6,24
+Orientalism,"Said, Edward",history,197,Penguin,998,5,10,4,14
+Nature of Statistical Learning Theory,"Vapnik, Vladimir",data_science,230,Springer,799,4,8,5,13
+Integration of the Indian States,"Menon, V P",history,217,Orient Blackswan,349,2.8,11,5,16
+Drunkard's Walk,"Mlodinow, Leonard",science,197,Penguin,399,3.7,15,10,25
+Image Processing & Mathematical Morphology,"Shih, Frank",signal_processing,241,CRC,465,5,6,5,11
+How to Think Like Sherlock Holmes,"Konnikova, Maria",psychology,240,Penguin,400,5,9,11,20
+Data Scientists at Work,Sebastian Gutierrez,data_science,230,Apress,77,3.2,14,0,14
+Slaughterhouse Five,"Vonnegut, Kurt",fiction,198,Random House,74,4.8,8,5,13
+Birth of a Theorem,"Villani, Cedric",mathematics,234,Bodley Head,765,4.9,5,16,21
+Structure & Interpretation of Computer Programs,"Sussman, Gerald",computer_science,240,MIT Press,736,4.6,14,18,32
+Age of Wrath,"Eraly, Abraham",history,238,Penguin,260,2.1,0,11,11
+Trial,"Kafka, Frank",fiction,198,Random House,262,4.4,10,13,23
+Statistical Decision Theory',"Pratt, John",data_science,236,MIT Press,30,5,21,5,25
+Data Mining Handbook,"Nisbet, Robert",data_science,242,Apress,70,3.3,12,2,14
+New Machiavelli,"Wells, H. G.",fiction,180,Penguin,396,4,11,13,24
+Physics & Philosophy,"Heisenberg, Werner",science,197,Penguin,369,4.6,5,9,14
+Making Software,"Oram, Andy",computer_science,232,O'Reilly,433,4.6,7,10,17
+"Analysis, Vol I","Tao, Terence",mathematics,248,HBA,540,4.2,8,8,16
+Machine Learning for Hackers,"Conway, Drew",data_science,233,O'Reilly,850,3.8,10,5,15
+Signal and the Noise,"Silver, Nate",data_science,466,Penguin,510,4.3,21,3,24
+Python for Data Analysis,"McKinney, Wes",data_science,456,O'Reilly,559,4.6,5,15,20
+Introduction to Algorithms,"Cormen, Thomas",computer_science,76,MIT Press,601,4.3,6,3,9
+Beautiful and the Damned,"Deb, Siddhartha",nonfiction,476,Penguin,100,4.5,9,6,15
+Outsider,"Camus, Albert",fiction,546,Penguin,343,4.7,17,7,24
+"Complete Sherlock Holmes, The - Vol I","Doyle, Arthur Conan",fiction,176,Random House,534,5,18,5,23
+"Complete Sherlock Holmes, The - Vol II","Doyle, Arthur Conan",fiction,656,Random House,125,5,15,2,17
+Wealth of Nations,"Smith, Adam",economics,64,Random House,492,4.5,0,24,24
+Pillars of the Earth,"Follett, Ken",fiction,644,Random House,456,3.2,12,6,18
+Mein Kampf,"Hitler, Adolf",nonfiction,25,Rupa,532,2,5,20,25
+Tao of Physics,"Capra, Fritjof",science,64,Penguin,3000,4.1,9,16,25
+Surely You're Joking Mr Feynman,"Feynman, Richard",science,444,Random House,539,4.6,3,11,14
+Farewell to Arms,"Hemingway, Ernest",fiction,567,Rupa,622,2,8,12,20
+Veteran,"Forsyth, Frederick",fiction,177,Transworld,298,4.4,6,10,16
+False Impressions,"Archer, Jeffery",fiction,177,Pan,700,4.5,7,14,21
+"Last Lecture, The","Pausch, Randy",nonfiction,77,Hyperion,403,4,3,10,13
+Return of the Primitive,"Rand, Ayn",philosophy,657,Penguin,915,5,12,4,16
+Jurassic Park,"Crichton, Michael",fiction,776,Random House,547,5,7,3,10
+Russian Journal,"Steinbeck, John",nonfiction,850,Penguin,517,4.5,16,0,16
+Tales of Mystery and Imagination,"Poe, Edgar Allen",fiction,990,HarperCollins,911,2.7,11,12,23
+Freakonomics,"Dubner, Stephen",economics,980,Penguin,721,3.4,14,3,17
+Hidden Connections,"Capra, Fritjof",science,879,HarperCollins,897,5,6,2,8
+Story of Philosophy,"Durant, Will",philosophy,765,Pocket,399,4.4,9,6,15
+Asami Asami,"Deshpande, P L",fiction,577,Mauj,620,4.6,4,7,11
+Journal of a Novel,"Steinbeck, John",fiction,76,Penguin,1289,5,6,13,19
+Once There Was a War,"Steinbeck, John",nonfiction,654,Penguin,396,4.5,9,11,20
