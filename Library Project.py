@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 df = pd.DataFrame()
 
 df_new = pd.DataFrame()
-csv_file = "D:\Documents\python.csv"
-csv_output = "D:\Documents\output.csv"
+csv_file = "python.csv"
+csv_output = "output.csv"
 def read_csv_file():
     df=pd.read_csv(csv_file)
     print(df)
